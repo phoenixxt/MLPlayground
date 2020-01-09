@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970454111742",
+    "firebase_url": "https://mlplayground-82024.firebaseio.com",
+    "project_id": "mlplayground-82024",
+    "storage_bucket": "mlplayground-82024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970454111742:android:22d525fd6a6a3873b9dcaf",
+        "android_client_info": {
+          "package_name": "dev.phoenixxt.mlplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970454111742-q62ojleg9h01lfeoh84hnbrfoqvcauaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDSjLTGDKAVTP3FzabV1N_cUxvKC_SgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970454111742-q62ojleg9h01lfeoh84hnbrfoqvcauaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
